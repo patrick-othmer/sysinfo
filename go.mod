@@ -1,4 +1,4 @@
-module github.com/zcalusic/sysinfo
+module github.com/patrick-othmer/sysinfo
 
 go 1.23
 

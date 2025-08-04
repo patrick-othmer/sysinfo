@@ -10,7 +10,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/zcalusic/sysinfo"
+	"github.com/patrick-othmer/sysinfo"
 )
 
 func Test(t *testing.T) {
